@@ -2,7 +2,7 @@
 using System.Data.SqlClient;
 using System.Data;
 
-namespace Tes1
+namespace Exe1
 {
     class Program
     {
